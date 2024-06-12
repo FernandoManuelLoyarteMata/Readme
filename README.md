@@ -14,7 +14,7 @@ Projects, UX/UI, Art
 
 Legal Cannabis Seed Bank Website:
 
-!home [HomeImage](https://asset.cloudinary.com/dmj9vk1fj/cf7c706f87a2d6106c35db1d82e73e06)
+!home [HomeImage](https://drive.google.com/file/d/1CHbL8MwOOmB7Wvb6A3JcyKhGWXnv_BHR/view?usp=sharing)
 Developed a complete website using React, Next.js, and Sanity CMS.
 Implemented payment systems and ensured responsive design.
 Experimented with AI algorithms for image recognition.
